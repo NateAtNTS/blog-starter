@@ -1,0 +1,10 @@
+{
+    "name": "harvest-media/hyii-starter",
+    "description": "Harvest Media Yii2 Starter Project",
+    "keywords": [
+        "Web App"
+    ],
+    "require": {
+        "nateatnts/base-blog": "^0.01.0"
+    }
+}
