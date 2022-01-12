@@ -5,6 +5,8 @@ define('VENDOR_PATH', dirname(__DIR__) . DIRECTORY_SEPARATOR . 'vendor');
 define('HYII_SRC_PATH', VENDOR_PATH . DIRECTORY_SEPARATOR . 'nateatnts' . DIRECTORY_SEPARATOR . 'base-blog' . DIRECTORY_SEPARATOR . 'src' . DIRECTORY_SEPARATOR);
 define('CONFIG_FILE', HYII_SRC_PATH . "config" . DIRECTORY_SEPARATOR . "web.config.php");
 define('APP_TEMPLATES', dirname(__DIR__) . DIRECTORY_SEPARATOR . "templates");
+const PUBLIC_DIR = __DIR__;
+const STARTER_APP = true;
 
 // Load Composer's autoloader
 require_once VENDOR_PATH.'/autoload.php';

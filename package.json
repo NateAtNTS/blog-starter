@@ -1,10 +1,10 @@
 {
-  "name": "Base-Web-App",
+  "name": "Blog Starter",
   "version": "1.0.0",
-  "description": "A barebones web app built on top of Yii2.  Currently this includes user management and an install script accessible by `~/console install`.",
+  "description": "A starter app for nateatnts/base-blog",
   "license": "UNLICENSED",
   "private": true,
-  "author": "Nate Bate (Harvest Media)",
+  "author": "Nate Bate",
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^2.2.0",
     "balance-text": "^3.3.0",

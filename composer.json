@@ -1,10 +1,10 @@
 {
-    "name": "harvest-media/hyii-starter",
-    "description": "Harvest Media Yii2 Starter Project",
+    "name": "nateatnts/blog-starter",
+    "description": "A starter project for nateatnts/base-blog",
     "keywords": [
         "Web App"
     ],
     "require": {
-        "nateatnts/base-blog": "^0.01.0"
+        "nateatnts/base-blog": "~1.0"
     }
 }
