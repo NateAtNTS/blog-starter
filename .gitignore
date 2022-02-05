@@ -5,4 +5,5 @@ vendor
 node_modules
 runtime
 
+public/assets
 secure_files
